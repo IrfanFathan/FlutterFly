@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217624619066",
+    "project_id": "flutterfly-f8015",
+    "storage_bucket": "flutterfly-f8015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217624619066:android:03b891d69a2908108d6d03",
+        "android_client_info": {
+          "package_name": "com.example.fluttertask3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYtgFx68LLi7TRHpeQI1PgV1i5dhE702Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
